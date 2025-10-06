@@ -1,5 +1,6 @@
 streamlit
 langchain-community
-ctransformers>=0.2.27
+llama-cpp-python
 torch
 transformers
+huggingface-hub
